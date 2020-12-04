@@ -28,6 +28,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     implementation 'com.google.code.gson:gson:2.8.6'
-    implementation 'com.google.okhttp:okhttp:20120626'
     implementation 'org.litepal:LitePal:1.2.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.10.0-RC1'
 }
